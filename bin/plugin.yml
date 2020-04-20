@@ -1,0 +1,42 @@
+name: FlameKitpvpCore
+author: TYSluukie
+version: 1.0
+main: me.tysluukie.flamepvpcore.main
+
+commands:
+    help:
+      usage: /<command>
+      description: help
+    setrank:
+      usage: /<command>
+      description: setrank
+    hub:
+      usage: /<command>
+      description: hub
+    kingdom:
+      usage: /<command>
+      description: kingdom
+    spawn:
+      usage: /<command>
+      description: spawn
+    setspawn:
+      usage: /<command>
+      description: setspawn
+    startbroadcast:
+      usage: /<command>
+      description: startbroadcast
+    stopbroadcast:
+      usage: /<command>
+      description: stopbroadcast
+    announce:
+      usage: /<command>
+      description: announce
+    shutdown:
+      usage: /<command>
+      description: shutdown
+    lock:
+      usage: /<command>
+      description: lock
+    flamekitpvp:
+      usage: /<command>
+      description: flamekitpvp

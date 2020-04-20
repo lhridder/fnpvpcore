@@ -1,0 +1,9 @@
+messages: FlameHubManager/hubmessages.txt
+lockdown: 'false'
+lockreason: lockdown
+spawn:
+  x: 
+  y: 
+  z: 
+  world: 
+rank:
